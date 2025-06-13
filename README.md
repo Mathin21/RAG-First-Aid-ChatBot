@@ -18,7 +18,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot for **Diabete
 
 ## Flowchart
 
-![Render Flow](FlowChart.png)
+![Render Flowchart](https://raw.githubusercontent.com/Mathin21/RAG-First-Aid-ChatBot/main/Flowchart.png)
 
 --
 
