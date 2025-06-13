@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite DBs
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
