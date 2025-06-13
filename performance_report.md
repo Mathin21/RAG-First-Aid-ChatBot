@@ -39,7 +39,7 @@ This report summarizes the system’s latency, token usage, accuracy, and known 
 |--------------------------|----------------|
 | Triage Accuracy          | ✅ 9/10 queries |
 | First-Aid Coverage       | ✅ 10/10 cases  |
-| Structured Output (JSON) | ✅ 7/10 responses |
+| Structured Output (JSON) | ✅ 8/10 responses |
 | Citation Relevance       | ✅ 8/10 results |
 
 > Responses were evaluated based on correct triage inference, first-aid advice, and reliable citation usage.
