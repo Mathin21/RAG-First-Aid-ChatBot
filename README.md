@@ -78,5 +78,21 @@ Or test directly using `curl`:
 curl "http://127.0.0.1:8000/ask?query=My glucose is 55 and I'm shaky"
 ```
 
+### 🔐 Environment Variables
+
+| Variable         | Description                             |
+|------------------|-----------------------------------------|
+| `OPENAI_API_KEY` | Your OpenAI key (GPT-4 access required) |
+| `SERPER_API_KEY` | Your Serper.dev key                     |
+
+---
+
+### 🧠 Sample Test Queries
+
+- "I’m sweating, shaky, and my glucometer reads 55 mg/dL—what should I do right now?"
+- "My diabetic father just became unconscious; we think his sugar crashed."
+- "Crushing chest pain shooting down my left arm—do I chew aspirin first or call an ambulance?"
+- "CKD patient with a potassium level of 6.1 mmol/L—what emergency measures can we start right away?"
+
 
 
