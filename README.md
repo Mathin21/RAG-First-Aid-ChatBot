@@ -16,6 +16,12 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot for **Diabete
 
 ---
 
+## Flowchart
+
+![Render Flow](render-flowchart.png)
+
+--
+
 ## 🛠 Setup
 
 ### 1. Clone the repo
@@ -94,5 +100,13 @@ curl "http://127.0.0.1:8000/ask?query=My glucose is 55 and I'm shaky"
 - "Crushing chest pain shooting down my left arm—do I chew aspirin first or call an ambulance?"
 - "CKD patient with a potassium level of 6.1 mmol/L—what emergency measures can we start right away?"
 
+### 🧑‍⚕️ Disclaimer
 
+⚠️ This chatbot is for educational and informational purposes only and **does not replace professional medical advice**. Always consult a doctor for emergency care.
+
+### 📄 License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software with proper attribution.
+
+MIT © [Mathin21](https://github.com/Mathin21)
 
