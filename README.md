@@ -21,5 +21,5 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot for **Diabete
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/RAG-First-Aid-ChatBot.git
+git clone https://github.com/Mathin21/RAG-First-Aid-ChatBot.git
 cd RAG-First-Aid-ChatBot
